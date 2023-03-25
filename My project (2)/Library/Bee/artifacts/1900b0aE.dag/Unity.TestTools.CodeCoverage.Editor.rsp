@@ -116,8 +116,8 @@
 -define:NO_COV_EDITORPREF
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
--r:"C:/Users/Aussar/OneDrive/Escritorio/Regalon_Eric_Repository/My project (2)/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
--r:"C:/Users/Aussar/OneDrive/Escritorio/Regalon_Eric_Repository/My project (2)/Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll"
+-r:"C:/Users/Aussar/Documents/GitHub/Regalon_Eric_Repository/My project (2)/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+-r:"C:/Users/Aussar/Documents/GitHub/Regalon_Eric_Repository/My project (2)/Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"D:/Program Files/Unity Hub/2021.3.21f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"D:/Program Files/Unity Hub/2021.3.21f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"D:/Program Files/Unity Hub/2021.3.21f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
